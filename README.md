@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on teaching students Javascript, css and html
+🔭 I’m currently teaching my students Javascript, css and html, using mern stack as our target stack.
 
 <!--
 **Mgayar-sci/Mgayar-sci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
